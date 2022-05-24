@@ -1,7 +1,7 @@
 <?php 
 
 $host = 'localhost';
-$db = 'cruddb';
+$db = 'crud_db';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
