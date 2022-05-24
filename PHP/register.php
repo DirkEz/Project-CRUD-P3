@@ -24,7 +24,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             
             // Set parameters
             $param_username = trim($_POST["username"]);
-            
+            $Dirk = 4;            
             // Attempt to execute the prepared statement
             if(mysqli_stmt_execute($stmt)){
                 /* store result */
