@@ -126,7 +126,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                         <input type="submit" class="btn btn-primary" value="Login">
                     </div>
                     <p>Heb je geen account en ben je wel medewerker? <br> <b> Neem dan contact op met de managers  </b> </p>
-                    <a href="register.php">Registreer nu!</a>
                 </form>
             </div>
         </div>
